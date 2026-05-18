@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=july0709" alt="july0709" /></a> </p>
 
-- 🔭 [](https://july0709.github.io/)
+- 🔭 [See my blog](https://july0709.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
