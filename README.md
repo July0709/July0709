@@ -1,21 +1,69 @@
-<h1 align="center">Hi 👋, I'm July</h1>
-<h3 align="center">A passionate frontend developer from Southern Medical University</h3>
+<h1 align="center">Hi, I'm July &nbsp;👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=july0709&label=Profile%20views&color=0e75b6&style=flat" alt="july0709" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=july0709" alt="july0709" /></a> </p>
-
-- 🔭 [See my blog](https://july0709.github.io/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <b>Clinical Medicine · Microbiome Research · Web Building</b><br/>
+  Southern Medical University, Guangzhou &nbsp;🇨🇳
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://july0709.github.io/">🌐 Website</a> &nbsp;·&nbsp;
+  <a href="https://july0709.github.io/blog.html">📝 Blog</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=july0709&show_icons=true&locale=en&layout=compact" alt="july0709" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=july0709&show_icons=true&locale=en" alt="july0709" /></p>
+## About me / 关于我
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=july0709&" alt="july0709" /></p>
+I'm a student in the **8-year clinical medicine program at Southern Medical University** (Class of 2023, First Clinical Medical College). My work lives at the intersection of medicine, microbiome, and computation — I build bioinformatics pipelines in R and Python, explore causal inference with large-scale biobank data, and occasionally build websites to make research more visible.
+
+在南方医科大学临床医学八年制就读（2023级），研究兴趣在医学、微生物组与计算的交叉地带。
+
+- 🔬 **Lab:** SMOOTH Laboratory — skin microbiome omics, microbial co-occurrence networks, causal ML
+- 🧫 **Previously:** Southern Organoid Research Group — organoids, organ-on-a-chip, nasopharyngeal carcinoma
+- 🏫 **On campus:** Student mentor (导生) · Vice President, Southern Organoid Student Association
+- 📖 Reading widely, thinking with Adler, sharing notes on 小红书
+
+---
+
+## What I'm working on / 正在做
+
+- 🧬 Skin microbiome peptides — literature review & co-occurrence network analysis (SMOOTH Lab)
+- 📊 Causal inference on UK Biobank data — Double ML / Mendelian randomisation
+- 🌐 SMOOTH Lab website + personal portfolio
+
+---
+
+## Skills / 技能
+
+| Domain | Tools |
+|--------|-------|
+| **Bioinformatics** | R · Python · MetaNet · igraph · CausalML · UK Biobank |
+| **Statistics** | Spearman correlation · Cox regression · Mendelian randomisation · Zi-Pi framework |
+| **Wet Lab** | Animal behavioural tests · Depression model construction · Biochemistry · Organic chemistry |
+| **Web** | HTML5 · CSS3 · JavaScript · Bootstrap 5 · GitHub Pages |
+| **Design** | Figma · Adobe Illustrator · BioRender |
+
+---
+
+## Repos / 项目
+
+| Repo | Description |
+|------|-------------|
+| [July0709.github.io](https://github.com/July0709/July0709.github.io) | 🌐 Personal portfolio — bilingual, built with Bootstrap 5 |
+| [smooth_web](https://github.com/July0709/smooth_web) | 🧪 Website for the SMOOTH Laboratory |
+| [nature-skills](https://github.com/July0709/nature-skills) | 📄 Nature-style academic writing & figure skills |
+
+---
+
+## Stats / 统计
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=july0709&show_icons=true&locale=en&layout=compact&theme=default" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Be a spring tree, see those spring mountains."</i><br/>
+  <i>做一棵春天的树，看那些春天的山。</i>
+</p>
