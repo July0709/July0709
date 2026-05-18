@@ -1,7 +1,7 @@
 <h1 align="center"><code>Hi, I'm July (Fuling Yang). Clinical Medicine × Computation.</code></h1>
 
 <p align="center">
-  <code>2nd-year 8-yr MD @ SMU</code> &nbsp;|&nbsp; <code>Microbiome researcher</code> &nbsp;|&nbsp; <code>Web builder</code>
+  <code>3rd-year 8-yr MD @ SMU</code> &nbsp;|&nbsp; <code>Microbiome researcher</code> &nbsp;|&nbsp; <code>Web builder</code>
 </p>
 
 <p align="center">🌱 &nbsp;Open to research collaborations and academic exchange opportunities.</p>
