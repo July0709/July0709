@@ -35,4 +35,4 @@
 ---
 
 > *"Be a spring tree, see those spring mountains."*
-> 做一棵春天的树，看那些春天的山。
+> 去做春树，见那春山。
